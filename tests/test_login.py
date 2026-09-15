@@ -1,6 +1,6 @@
 from conftest import settings
 from pages.login_page import LoginPage
-#hi
+#TestLogin1
 @pytest.mark.parametrize
 def test_login(driver):
     login_page = LoginPage(driver)
