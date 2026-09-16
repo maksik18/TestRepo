@@ -26,3 +26,4 @@ htmlcov/
 
 # Test artifacts
 artifacts/.env
+.env
