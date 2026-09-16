@@ -25,4 +25,4 @@ htmlcov/
 .DS_Store
 
 # Test artifacts
-artifacts/
+artifacts/.env
