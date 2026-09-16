@@ -2,7 +2,7 @@ from selenium.webdriver.common.by import By
 
 from pages.base_page import BasePage
 
-
+#Test
 class ProductsPage(BasePage):
     ADD_BACKPACK = (By.ID, "add-to-cart-sauce-labs-backpack")
     REMOVE_BACKPACK = (By.ID, "remove-sauce-labs-backpack")
